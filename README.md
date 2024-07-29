@@ -8,6 +8,10 @@ A simple notes application built with the MERN stack (MongoDB, Express.js, React
 - Responsive UI built with Material-UI
 - RESTful API for note operations
 
+## Published Link
+
+https://note-app-6s3v.onrender.com/
+
 ## Installation
 
 Clone the repository to your local machine:
@@ -15,7 +19,3 @@ Clone the repository to your local machine:
 ```sh
 git clone https://github.com/TejaChanti/notes.git
 
-## Published link
-
-```sh
-https://note-app-6s3v.onrender.com/
